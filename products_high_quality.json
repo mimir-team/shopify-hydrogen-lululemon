@@ -1,0 +1,155 @@
+{
+  "products": [
+    {
+      "title": "Align High-Rise Yoga Pants",
+      "body_html": "<p>Experience ultimate comfort and flexibility with our Align High-Rise Yoga Pants, designed for yoga and beyond.</p>",
+      "vendor": "Lululemon",
+      "product_type": "Yoga Pants",
+      "tags": [
+        "yoga",
+        "high-rise",
+        "comfort"
+      ],
+      "variants": [
+        {
+          "price": "98.00",
+          "sku": "LUL-001-XS",
+          "option1": "Extra Small",
+          "inventory_quantity": 120
+        },
+        {
+          "price": "98.00",
+          "sku": "LUL-001-S",
+          "option1": "Small",
+          "inventory_quantity": 150
+        },
+        {
+          "price": "98.00",
+          "sku": "LUL-001-M",
+          "option1": "Medium",
+          "inventory_quantity": 100
+        }
+      ],
+      "images": [
+        {
+          "src": "https://placehold.co/400.jpg",
+          "position": 1
+        }
+      ]
+    },
+    {
+      "title": "The Reversible Mat 5mm",
+      "body_html": "<p>Our Reversible Mat offers superior cushioning and grip, perfect for any yoga practice.</p>",
+      "vendor": "Lululemon",
+      "product_type": "Yoga Mat",
+      "tags": [
+        "reversible",
+        "cushioning"
+      ],
+      "variants": [
+        {
+          "price": "78.00",
+          "sku": "LUL-002-5MM",
+          "option1": "5mm",
+          "inventory_quantity": 200
+        }
+      ],
+      "images": [
+        {
+          "src": "https://placehold.co/400.jpg",
+          "position": 1
+        }
+      ]
+    },
+    {
+      "title": "Swiftly Tech Long Sleeve Shirt",
+      "body_html": "<p>Stay cool and dry with the Swiftly Tech Long Sleeve Shirt, engineered for running and training.</p>",
+      "vendor": "Lululemon",
+      "product_type": "Shirt",
+      "tags": [
+        "running",
+        "breathable"
+      ],
+      "variants": [
+        {
+          "price": "78.00",
+          "sku": "LUL-003-S",
+          "option1": "Small",
+          "inventory_quantity": 80
+        },
+        {
+          "price": "78.00",
+          "sku": "LUL-003-M",
+          "option1": "Medium",
+          "inventory_quantity": 90
+        }
+      ],
+      "images": [
+        {
+          "src": "https://placehold.co/400.jpg",
+          "position": 1
+        }
+      ]
+    },
+    {
+      "title": "Energy Bra Medium Support",
+      "body_html": "<p>Designed for medium-impact activities, the Energy Bra provides support and comfort.</p>",
+      "vendor": "Lululemon",
+      "product_type": "Sports Bra",
+      "tags": [
+        "medium-support",
+        "comfort"
+      ],
+      "variants": [
+        {
+          "price": "52.00",
+          "sku": "LUL-004-S",
+          "option1": "Small",
+          "inventory_quantity": 60
+        },
+        {
+          "price": "52.00",
+          "sku": "LUL-004-M",
+          "option1": "Medium",
+          "inventory_quantity": 70
+        }
+      ],
+      "images": [
+        {
+          "src": "https://placehold.co/400.jpg",
+          "position": 1
+        }
+      ]
+    },
+    {
+      "title": "Fast and Free Running Shorts",
+      "body_html": "<p>Lightweight and breathable, the Fast and Free Running Shorts are perfect for your daily run.</p>",
+      "vendor": "Lululemon",
+      "product_type": "Running Shorts",
+      "tags": [
+        "lightweight",
+        "running"
+      ],
+      "variants": [
+        {
+          "price": "68.00",
+          "sku": "LUL-005-S",
+          "option1": "Small",
+          "inventory_quantity": 110
+        },
+        {
+          "price": "68.00",
+          "sku": "LUL-005-M",
+          "option1": "Medium",
+          "inventory_quantity": 130
+        }
+      ],
+      "images": [
+        {
+          "src": "https://placehold.co/400.jpg",
+          "position": 1
+        }
+      ]
+    }
+  ]
+}
